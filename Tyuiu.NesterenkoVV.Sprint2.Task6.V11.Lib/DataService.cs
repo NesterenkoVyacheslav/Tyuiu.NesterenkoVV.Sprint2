@@ -66,7 +66,7 @@ namespace Tyuiu.NesterenkoVV.Sprint2.Task6.V11.Lib
             {
                 z = Convert.ToString(n);
             }
-            if (m <= 0)
+            if (m <= 9)
             {
                 k = Convert.ToString(m);
                 k = "0" + k;
